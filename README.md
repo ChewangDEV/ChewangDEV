@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Chewang Tamang - Full Stack Developer Banner" />
+  <img src="banner.png" alt="Chewang Tamang - Full Stack Developer Banner"  height= "300" />
 </p>
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm Chewang Tamang</h1>
