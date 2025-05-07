@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Chewang Tamang - Full Stack Developer Banner" />
+</p>
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm Chewang Tamang</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer | 💻 Python, Django & JavaScript Lover</h3>
@@ -42,7 +45,7 @@
 
 ### 🌍 Connect with Me
 <p>
-  <a href="www.linkedin.com/in/chewang-tamang-tamang-579576364" target="_blank">
+  <a href=""https://www.linkedin.com/in/chewang-tamang-579576364" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://yourwebsite.com" target="_blank">
