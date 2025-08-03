@@ -16,7 +16,7 @@
 ### 🧠 About Me
 - 🔭 I’m currently working on personal web projects and sharpening my backend skills
 - 🌱 Learning Django, MongoDB, and advanced frontend techniques
-- 💬 Ask me about **Python**, **JavaScript**, or anything tech-related!
+- 💬 Ask me about **HTML**, **JavaScript**, **CSS** or anything tech-related!
 - 🎯 2025 Goal: Become a job-ready full stack developer
 
 ---
